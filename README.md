@@ -17,5 +17,7 @@
 # Statistics 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=bluethefoxofficial&show_icons=true)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluethefoxofficial&langs_count=8)
-![bluethefoxofficial's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bluethefoxofficial)
+
