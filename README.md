@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on c++ work to learn and grow.
 - 🤔 I’m looking for help with php, c++, c#, html, js, css
 - 💬 Ask me about literally anything
-- 📫 How to reach me: my twitter @bluethefoxyt telegram: @bluethefoxyt
+- 📫 How to reach me: my twitter @bluethefoxyt telegram: @bluethefox
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I am completely self taught.
 
