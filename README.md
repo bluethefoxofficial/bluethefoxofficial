@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I am completely self taught.
 
 # Statistics 
-
+<p align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bluethefoxofficial&show_icons=true&theme=tokyonight" />
 
@@ -23,7 +23,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluethefoxofficial&langs_count=10&theme=tokyonight)
 
-[![Blues's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bluethefoxofficial)]
-
+</p>
 <br clear="center"/>
 
