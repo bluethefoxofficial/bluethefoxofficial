@@ -2,17 +2,8 @@
 
 
 # about me
-
-
-
-- 🔭 I’m currently working on the game engine called EGE (Enclica game engine)
-- 🌱 I’m currently learning nothing
-- 👯 I’m looking to collaborate on c++ work to learn and grow.
-- 🤔 I’m looking for help with php, c++, c#, html, js, css
-- 💬 Ask me about literally anything
-- 📫 How to reach me: my twitter @bluethefoxyt telegram: @bluethefox
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: I am completely self taught.
+Hello im blue a programmer from Hampshire, england and im here to make opensource projects to share or to collaborate with and build a better portfolio.
+Feel free to check out anything i have created.
 
 # Statistics 
 <p align="center">
