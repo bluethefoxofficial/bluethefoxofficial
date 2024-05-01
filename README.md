@@ -21,3 +21,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluethefoxofficial&langs_count=10&theme=tokyonight)
 
+[![Blues's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bluethefoxofficial)]
+
