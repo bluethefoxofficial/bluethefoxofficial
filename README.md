@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I am completely self taught.
 
 # Statistics 
-<p align="center">
+<br clear="right"/>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=bluethefoxofficial&show_icons=true&theme=tokyonight)
 
@@ -26,4 +26,3 @@
 
 
 
-</p>
