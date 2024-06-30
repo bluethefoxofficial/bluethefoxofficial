@@ -1,4 +1,5 @@
-![github-header-image(1)](https://github.com/bluethefoxofficial/bluethefoxofficial/assets/47904806/c61de70d-8097-4a9d-8237-f8c192dfac4c)
+
+![github-header-image(2)](https://github.com/bluethefoxofficial/bluethefoxofficial/assets/47904806/43574648-c27b-4bf0-b320-4b7a84e85996)
 
 
 # about me
