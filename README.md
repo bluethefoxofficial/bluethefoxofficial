@@ -20,8 +20,6 @@ Feel free to check out anything i have created.
 </p>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&size=19&pause=1000&color=0011F7&center=true&width=435&lines=I'M+BLUETHEFOX;PROGRAMMER%2C+OWNER%2C+ETC" alt="Typing SVG" /></a>
-
 <img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 <br clear="center"/>
 
